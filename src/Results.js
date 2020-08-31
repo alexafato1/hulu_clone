@@ -6,7 +6,7 @@ import VideoCard from './VideoCard.js'
 function Results() {
     return (
         <div className='results'>
-           <VideoCard/> 
+           <VideoCard movie={movie}/> 
         </div>
     )
 }

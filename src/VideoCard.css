@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.videoCard{
+  color: white;
+  padding: 1.5rem;
+  height: 400px;
+ 
+  width: 500px;
+}
+
+.videoCard >img{
+  height: 300px;
+  object-fit: cover;
+  width: 500px;
+  margin: 0;
+  padding: 0;
+}
+
+.videoCard:hover{
+    scale: (1.2);
+  }
