@@ -26,3 +26,8 @@
   .videoCard > h2 {
     padding-top: 0.5em
   }
+
+  .videoCardFooter{
+    display: flex;
+    justify-content: space-between;
+  }
